@@ -1,5 +1,8 @@
 
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
+ 
+
+
 
 # Combining Datatypes & Callbacks Lab & HW
 
@@ -25,7 +28,7 @@ This combination lab/hw (start during lab time) is designed to be a review of al
 
 ## Getting Started
 
-1. Fork & Clone this repository
+1. Forak & Clone this repository
 2. Touch a file for each section
     * `programming_fundamentals`
     * `combining_datatypes`
